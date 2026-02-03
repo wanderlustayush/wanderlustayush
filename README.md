@@ -66,8 +66,10 @@ A JavaScript-based project focused on clean UI, logic building, and real-world u
 
 ## 🧩 GeeksforGeeks Stats
 
-<a href="https://www.geeksforgeeks.org/user/wanderlustayush/">
-  <img src="https://gfg-stats-five.vercel.app/share?user=wanderlustayush&theme=dark" alt="Ayush's GFG Stats" />
+## 🧩 GeeksforGeeks Stats
+
+<a href="https://www.geeksforgeeks.org/user/ayushgup0jay/">
+  <img src="https://gfg-stats-five.vercel.app/share?user=ayushgup0jay&theme=dark" alt="Ayush's GFG Stats" />
 </a>
 
 
