@@ -64,9 +64,9 @@ A JavaScript-based project focused on clean UI, logic building, and real-world u
 
 ## 📊 Coding & GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanderlustayush\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanderlustayush&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlustayush\&layout=compact\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlustayush&layout=compact&theme=dark)
 
 ---
 
