@@ -62,12 +62,14 @@ A JavaScript-based project focused on clean UI, logic building, and real-world u
 
 ---
 
-## 📊 Coding & GitHub Stats
+## 📊 Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanderlustayush&show_icons=true&theme=dark)
+## 🧩 GeeksforGeeks Stats
 
+<a href="https://www.geeksforgeeks.org/user/wanderlustayush/">
+  <img src="https://gfg-stats-five.vercel.app/share?user=wanderlustayush&theme=dark" alt="Ayush's GFG Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlustayush&layout=compact&theme=dark)
 
 ---
 
