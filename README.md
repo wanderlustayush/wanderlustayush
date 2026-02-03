@@ -62,19 +62,6 @@ A JavaScript-based project focused on clean UI, logic building, and real-world u
 
 ---
 
-## 📊 Coding Stats
-
-## 🧩 GeeksforGeeks Stats
-
-## 🧩 GeeksforGeeks Stats
-
-<a href="https://www.geeksforgeeks.org/user/ayushgup0jay/">
-  <img src="https://gfg-stats-five.vercel.app/share?user=ayushgup0jay&theme=dark" alt="Ayush's GFG Stats" />
-</a>
-
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/ayush-gupta-a7714b2b7/
