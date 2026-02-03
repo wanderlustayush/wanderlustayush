@@ -3,7 +3,14 @@
 **B.Tech IT (2026) | MERN Stack Developer | Java Programmer**
 
 I love building **real‑world, user‑focused web applications** and continuously improving my problem‑solving skills through projects and DSA. I enjoy turning ideas into clean, scalable products.
-<p align="left"> <a href="https://www.linkedin.com/in/ayush-gupta-a7714b2b7/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:ayushgupta6495@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.geeksforgeeks.org/user/ayushgup0jay/"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /> </a> </p>
+<p align="left">
+<a href="https://www.geeksforgeeks.org/user/ayushgup0jay/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
+</a>
+<a href="https://leetcode.com/u/ayushgup0jay/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+</p>
 ---
 
 ## 🚀 About Me
