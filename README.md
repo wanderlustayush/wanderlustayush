@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ayush gupta
 
-**B.Tech IT (2026) | MERN Stack Developer | Java Programmer**
+**B.Tech IT (2026) | MERN & Java Developer | Aspiring Backend Engineer**
 
-I love building **real‑world, user‑focused web applications** and continuously improving my problem‑solving skills through projects and DSA. I enjoy turning ideas into clean, scalable products.
+I’m deep-diving into the MERN stack and optimizing backend performance through robust Java-based solutions.
 <p align="left">
 <a href="https://www.geeksforgeeks.org/user/ayushgup0jay/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
